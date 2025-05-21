@@ -2,8 +2,20 @@
 Building a Machine Learning Model using Logistic Regression to detect spam mails. 
 
 ## PROBLEM STATEMENT 
-In today's world, email (electronic mail) is one of the most prevalent forms of digitial. Almost all online sites and portals use emails to communicate with and notify their users, and mainly to announce any promotions or extend offers. For the purpose of advertising, several unsolicited, junk mails are sent in bulk, known as 'spam mails'. Spam mails clutter inboxes and can also pose huge risks as they may contain malicious attachments or links which download malware (viruses, ransomware, spyware, etc.) on the recipient's device on  being clicked. Such mails are used for identity and data theft, which can be used to cause financial losses and severe damage to reputation. It is therefore extremely crucial for users and systems to detect/recognise spam mails and filter/delete them. 
+In today's world, email (electronic mail) is one of the most prevalent forms of digital communication. Almost all online sites and portals use emails to communicate with and notify their users, and mainly to announce any promotions or extend offers. For the purpose of advertising, several unsolicited, junk mails are sent in bulk, known as 'spam mails'. Spam mails clutter inboxes and can also pose huge risks as they may contain malicious attachments or links which download malware (viruses, ransomware, spyware, etc.) on the recipient's device on being clicked. Such mails are used for identity and data theft, which can be used to cause financial losses and severe damage to reputation. It is therefore extremely crucial for users and systems to detect/recognise spam mails and filter/delete them. 
 
+## TECHNOLOGY USED 
+> Math
+> Pandas
+Numpy 
+Matplotlib
+Seaborn
+Scikit-learn
+LogisticRegression
+String
+NLTK
+wordcloud
+warnings
 
 ## DATASETS 
 The links to the datasets used in this project are given below:- 
