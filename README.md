@@ -6,17 +6,22 @@ In today's world, email (electronic mail) is one of the most prevalent forms of 
 
 ## TECHNOLOGY USED 
 <ul>
-<li>Math
-Pandas
-Numpy 
-Matplotlib
-Seaborn
-Scikit-learn
-LogisticRegression
-String
-NLTK
-wordcloud
-warnings</li>
+<li>Math</li>
+<li>Pandas</li>
+<li>Numpy</li>
+<li>Matplotlib</li>
+<li>Seaborn</li>
+<li>Scikit-learn</li>
+<li>LogisticRegression</li>
+<li>String</li>
+<li>NLTK</li>
+<li>wordcloud</li>
+<li>warnings</li>
+
+## ALGORITHM SELECTED 
+```
+Logistic Regression
+```
 
 ## DATASETS 
 The links to the datasets used in this project are given below:- 
@@ -24,3 +29,12 @@ The links to the datasets used in this project are given below:-
 2. Mail File 2: [https://www.kaggle.com/datasets/noeyislearning/spam-emails](https://www.kaggle.com/datasets/noeyislearning/spam-emails)
 3. Mail File 3: [https://www.kaggle.com/datasets/bayes2003/emails-for-spam-or-ham-classification-trec-2006?resource=download&select=email_text.csv](https://www.kaggle.com/datasets/bayes2003/emails-for-spam-or-ham-classification-trec-2006?resource=download&select=email_text.csv)
 4. Test Mail File 1: [https://www.kaggle.com/datasets/devildyno/email-spam-or-not-classification](https://www.kaggle.com/datasets/devildyno/email-spam-or-not-classification)
+
+## FUTURE SCOPE 
+<ul>
+<li>Leveraging advancements in deep learning to incorporate user feedback and enhancing accuracy and efficiency.</li>
+<li>Fine tuning the model for better performance.</li>
+<li>Using hybrid models that combine different machine learning algorithms to create more robust models.</li>
+<li>Improving the model's speed and also maintaining the efficiency.</li>
+<li>Using the model to detect spam messages in other forms of online communication, such as social media and messaging apps.</li>
+</ul>
